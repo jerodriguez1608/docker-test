@@ -1,0 +1,7 @@
+FROM adoptopenjdk/openjdk8:latest
+VOLUMEN /tmp
+RUN
+COPY
+WORKDIR
+EXPOSE
+CMD
